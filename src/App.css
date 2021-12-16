@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+
+.button {
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+    border-radius: 30px;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+}
