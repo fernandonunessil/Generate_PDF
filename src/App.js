@@ -3,23 +3,23 @@ import ClientesPDF from './Relatorios/Clientes';
 
 const clientes = [
   {
-    nome:'Fernando',
-    sobrenome:'Nunes',
+    nome:'Jhon',
+    sobrenome:'Doe',
     aniversario:'12/04/2006'
   },
   {
-    nome:'Isadora',
-    sobrenome:'Nunes',
+    nome:'Marta',
+    sobrenome:'Scott',
     aniversario:'09/01/2002'
   },
   {
-    nome:'Dilma',
-    sobrenome:'Nunes',
+    nome:'Jane',
+    sobrenome:'Doe',
     aniversario:'12/03/1973'
   },
   {
-    nome:'Odair',
-    sobrenome:'Silva',
+    nome:'Michael',
+    sobrenome:'Smith',
     aniversario:'16/06/1984'
   },
 ]
